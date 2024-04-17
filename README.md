@@ -41,3 +41,4 @@ main ()
 
 * Since the C and C++ version have many things in common, both of them are maintained in a single repository.  
 To report language specific things, make use of the `C` or `C++` label.
+* This library only supports 24-bit uncompressed bmps 
